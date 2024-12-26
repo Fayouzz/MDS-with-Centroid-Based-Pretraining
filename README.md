@@ -12,3 +12,7 @@ This project implements the methodology described in the paper [Multi-Document S
 01. **Clone the repository:**
 git clone https://github.com/username/Multi-Document-Summarization.git
 cd Multi-Document-Summarization
+**02. Install dependencies:** pip install -r requirements.txt
+**03. Download and prepare datasets:**
+- Place raw datasets in data/raw/.
+- Follow instructions in data/README.md for preprocessing.
