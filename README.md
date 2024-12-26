@@ -22,3 +22,5 @@ This project implements the methodology described in the paper [Multi-Document S
 ├── LICENSE                # License for the project
 ├── .gitignore             # Files and directories to be ignored by Git
 └── requirements.txt       # Python dependencies
+
+## 🛠️ Installation
