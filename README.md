@@ -1,6 +1,6 @@
 # Multi-Document Summarization with Centroid-Based Pretraining
 
-This project implements the methodology described in the paper [Multi-Document Summarization with Centroid-Based Pretraining](https://aclanthology.org/). It focuses on improving multi-document summarization by pretraining models using centroid-based objectives and fine-tuning them for summarization tasks.
+This project implements the methodology described in the paper [Multi-Document Summarization with Centroid-Based Pretraining]([https://aclanthology.org/](https://aclanthology.org/2023.acl-short.13.pdf)). It focuses on improving multi-document summarization by pretraining models using centroid-based objectives and fine-tuning them for summarization tasks.
 
 ## 🚀 Features
 - **Centroid-Based Pretraining**: Generates pseudo-label summaries from document clusters.
