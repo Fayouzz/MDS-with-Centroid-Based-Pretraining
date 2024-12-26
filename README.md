@@ -16,3 +16,5 @@ cd Multi-Document-Summarization
 **03. Download and prepare datasets:**
 - Place raw datasets in data/raw/.
 - Follow instructions in data/README.md for preprocessing.
+
+## 📊 Usage
